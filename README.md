@@ -227,18 +227,6 @@ All scripts include the following optimizations:
 - Train for more epochs in Stage 2
 - Try L2 regularization: `--reg-type l2`
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@inproceedings{tkp2026,
-  title={Beyond Filter Pruning: Top-K Spatial Selection for Efficient Neural Networks},
-  author={Anonymous},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2026}
-}
-```
 
 ## License
 
