@@ -1,4 +1,4 @@
-# Top-K Pruning (TKP) - Implementation
+# Top-K Pruning (TKP)
 
 This repository contains the implementation code for the paper "Beyond Filter Pruning: Top-K Spatial Selection for Efficient Neural Networks" submitted to CVPR 2026.
 
